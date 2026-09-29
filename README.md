@@ -48,11 +48,11 @@ assistant, for the story behind a record.
 
 <table>
   <tr>
-    <td><img src="assets/uki/collection.webp" alt="Collection"></td>
-    <td><img src="assets/uki/collect-sheet.webp" alt="Collect media, files, iTunes, or an MP3 player"></td>
-    <td><img src="assets/uki/radio-live.webp" alt="Live radio"></td>
-    <td><img src="assets/uki/spin.webp" alt="Ask Uki Spin"></td>
-    <td><img src="assets/uki/wantlist.webp" alt="Wantlist"></td>
+    <td width="20%"><img src="assets/uki/collection.webp" alt="Collection"></td>
+    <td width="20%"><img src="assets/uki/collect-sheet.webp" alt="Collect media, files, iTunes, or an MP3 player"></td>
+    <td width="20%"><img src="assets/uki/radio-live.webp" alt="Live radio"></td>
+    <td width="20%"><img src="assets/uki/spin.webp" alt="Ask Uki Spin"></td>
+    <td width="20%"><img src="assets/uki/wantlist.webp" alt="Wantlist"></td>
   </tr>
   <tr>
     <td align="center">Collection</td>
