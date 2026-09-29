@@ -75,5 +75,8 @@ Supabase and Postgres · Cloudflare Workers · Stripe · local and cloud LLMs
 
 ### Get in touch
 
+[LinkedIn](https://www.linkedin.com/in/jackbigelow) · [openshore.ai](https://openshore.ai) · [uki.audio](https://uki.audio/open/)
+
 The product code is closed source. I'm happy to walk through the architecture
-and the engineering behind either product in a conversation.
+and the engineering behind either product in a conversation. The best way to
+reach me is a message on LinkedIn.
