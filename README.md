@@ -16,6 +16,7 @@ next. Cloud models stay one deliberate tap away, always on your own account.
 - **Local first.** Runs on open models on ordinary hardware, including CPU-only machines.
 - **Private by construction.** Keys never leave your devices, and everything is encrypted at rest.
 - **Desktop and phone in sync** over your own private network.
+- **Open source.** Apache License 2.0, free to use. [Source on GitHub](https://github.com/openshore-labs/openshore.code.ai).
 
 <table>
   <tr>
@@ -77,6 +78,8 @@ Supabase and Postgres · Cloudflare Workers · Stripe · local and cloud LLMs
 
 [LinkedIn](https://www.linkedin.com/in/jackbigelow) · [openshore.ai](https://openshore.ai) · [uki.audio](https://uki.audio/open/)
 
-The product code is closed source. I'm happy to walk through the architecture
-and the engineering behind either product in a conversation. The best way to
-reach me is a message on LinkedIn.
+OpenShore is open source under the Apache License 2.0
+([openshore-labs/openshore.code.ai](https://github.com/openshore-labs/openshore.code.ai)).
+Uki's code is closed source. I'm happy to walk through the architecture and the
+engineering behind either product in a conversation. The best way to reach me
+is a message on LinkedIn.
